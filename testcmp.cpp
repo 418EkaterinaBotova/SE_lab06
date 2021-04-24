@@ -14,7 +14,7 @@ int main()
 
   Complex M = B - C;
 
-  cout << "M = B - C, M = " << M << endl;
+  cout << " M = B - C, M = " << M << endl;
   cout << " M * A = " << M * A << endl;
   cout << " M / 4.45= " << M / 4.45 <<endl;
 
