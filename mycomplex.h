@@ -47,4 +47,5 @@ void Set (double aRe, double aIm = 0);
   Complex & operator = (const Complex &);
   Complex & operator = (const double &);
   };
+
   #endif
